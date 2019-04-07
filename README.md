@@ -10,5 +10,5 @@ This is a collection of Dockerfiles to be used for demo purposes, they are not i
 - index.php & info.php under **/var/www/app/web/**
 
 ```
-docker run -d -P manuel220x/aplinephp
+docker run -d -P manuel220/aplinephp
 ```
